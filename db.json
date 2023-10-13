@@ -1,4 +1,6 @@
 {
+  "customers":[
+    {
   "idCustomer": 1,
   "firstName": "Bruno",
   "lastName": "Toledo",
@@ -12,4 +14,6 @@
   "documentNumber": 32457394,
   "customerType": "fisico",
   "createdAt": "2023-10-13T14:43:37.718Z"
+    }
+  ]
 }
