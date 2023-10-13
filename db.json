@@ -4,7 +4,7 @@
   "idCustomer": 1,
   "firstName": "Bruno",
   "lastName": "Toledo",
-  "companyName": "string",
+  "companyName": null,
   "ivaCondition": "consumidor final",
   "email": "vruno@vruno.com",
   "phoneNumber": "351555555",
@@ -17,9 +17,9 @@
 },
 {
   "idCustomer": 2,
-  "firstName": "Bruno2",
-  "lastName": "Toledo",
-  "companyName": "string",
+  "firstName": null,
+  "lastName": null,
+  "companyName": "easy",
   "ivaCondition": "consumidor final",
   "email": "vruno@vruno.com",
   "phoneNumber": "351555555",
@@ -27,7 +27,7 @@
   "birthDate": "2023-10-13T14:43:37.716Z",
   "documentType": "dni",
   "documentNumber": 32457393,
-  "customerType": "fisico",
+  "customerType": "juridico",
   "createdAt": "2023-10-13T14:43:37.718Z"
 }
 ]
