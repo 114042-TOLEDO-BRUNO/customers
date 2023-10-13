@@ -1,6 +1,5 @@
+
 {
-  "customers":[
-    {
   "idCustomer": 1,
   "firstName": "Bruno",
   "lastName": "Toledo",
@@ -14,21 +13,4 @@
   "documentNumber": 32457394,
   "customerType": "fisico",
   "createdAt": "2023-10-13T14:43:37.718Z"
-    },
-     {
-  "idCustomer": 2,
-  "firstName": "Bruno2",
-  "lastName": "Toledo2",
-  "companyName": "string2",
-  "ivaCondition": "consumidor final",
-  "email": "vruno2@vruno.com",
-  "phoneNumber": "351555555",
-  "address": "mesa y castro",
-  "birthDate": "2023-10-13T14:43:37.716Z",
-  "documentType": "dni",
-  "documentNumber": 32457393,
-  "customerType": "fisico",
-  "createdAt": "2023-10-13T14:43:37.718Z"
-    }
-  ]
 }
