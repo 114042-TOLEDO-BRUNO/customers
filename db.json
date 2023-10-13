@@ -1,5 +1,5 @@
-{
-  "customers":[
+
+  
     {
       "idCustomer": 1,
       "firstName": "Bruno",
@@ -15,5 +15,4 @@
       "customerType": "fisico",
       "createdAt": "2023-10-13T14:43:37.718Z"
     }
-  ]
-}
+
